@@ -1,3 +1,2 @@
-bash pip install configparser
 pip install requests
 pip install tkinter
